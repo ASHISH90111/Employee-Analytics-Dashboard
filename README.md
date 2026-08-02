@@ -48,7 +48,7 @@ https://datastudio.google.com/reporting/04ef1724-29bd-4758-acae-5c1811d435a7
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](image.png)
 
 ## 👨‍💻 Author
 
